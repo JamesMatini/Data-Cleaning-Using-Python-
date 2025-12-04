@@ -1,12 +1,12 @@
 # 🧹 Data Cleaning Using Python
 
-A comprehensive and practical data cleaning workflow applied to a marketing campaign dataset using **Python**, **Pandas**, and **NumPy**. This project covers real-world data quality issues and demonstrates a step-by-step transformation process to produce an analysis-ready dataset.
+A comprehensive and practical data cleaning workflow applied to a marketing campaign dataset using **Python**, **Pandas** and **NumPy**. This project covers real-world data quality issues and demonstrates a step-by-step transformation process to produce an analysis-ready dataset.
 
 ---
 
 ## 📊 Project Overview
 
-The dataset contains marketing campaign performance metrics with inconsistencies, invalid entries, mixed formats, and logical errors. This notebook walks through identifying, fixing, and validating these issues to ensure clean, consistent, reliable data for downstream analytics.
+The dataset contains marketing campaign performance metrics with inconsistencies, invalid entries, mixed formats and logical errors. This notebook walks through identifying, fixing and validating these issues to ensure clean, consistent, reliable data for downstream analytics.
 
 ---
 
